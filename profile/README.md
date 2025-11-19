@@ -37,19 +37,6 @@ Whether you're a **viewer** or a **streamer**, WaveTip makes crypto-native suppo
 |----------------------|------------------|-------------------------|
 | Create, view, and manage XRPL wallets directly in the extension. | Send RLUSD to streamers or viewers in just a few clicks — right from Twitch. | Browse a full transaction log to track every tip and payment. |
 
----
-
-## 🔍 Feature Breakdown
-
-### 🔰 Essentials
-- Create new **XRPL wallets** with ease
-- View RLUSD **balances** and QR-coded wallet info
-- **Secure linking** between Twitch & XRPL accounts
-
-### 💸 Transactions
-- Instantly **send RLUSD** to Twitch streamers or chat users
-- **View full history** of all tips and transactions
-- Automatic **1% fee routing** to WaveTip hot wallet for platform sustainability
 
 ---
 
@@ -70,12 +57,7 @@ Whether you're a **viewer** or a **streamer**, WaveTip makes crypto-native suppo
   <p><strong>RLUSD</strong> is a USD-pegged stablecoin issued on the XRP Ledger for fast and low-fee transactions.</p>
 </details>
 
-<details>
-  <summary>⚠️ Is this real money?</summary>
-  <p>Currently, WaveTip runs on the <strong>XRPL Testnet</strong>. RLUSD tokens have <strong>no real-world value</strong> and are used for demonstration only.</p>
-</details>
-
-➡️ [More FAQs](https://wavetip.fi)
+➡️ [More FAQs](https://wavetip.fi/#faq)
 
 ---
 
